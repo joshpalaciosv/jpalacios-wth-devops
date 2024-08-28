@@ -50,7 +50,7 @@ const Index = ({ pets }) => {
                 </Link>
               </div>
             </div>
-            <h5>{pet.name}</h5>
+            <h5 style="color: black;">Orlando Josue Palacios Valladares</h5>
           </div>
         </div>
       ))}
