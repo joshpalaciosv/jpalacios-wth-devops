@@ -12,7 +12,7 @@ const Index = ({ pets }) => {
     <>
 
       {/* TODO: Display Hours component */}
-      <Hours />
+      <Hours /> <br/><br/>
       {/* Create a card for each pet */}
       {pets.map((pet) => (
         <div key={pet._id}>
@@ -50,6 +50,7 @@ const Index = ({ pets }) => {
                 </Link>
               </div>
             </div>
+            <h5>{pet.name}</h5>
           </div>
         </div>
       ))}
