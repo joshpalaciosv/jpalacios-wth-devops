@@ -7,7 +7,7 @@ import React from "react";
         const shelterHours = [
             { day: "Monday", open: "10:00", close: "16:00" },
             { day: "Tuesday", open: "10:00", close: "16:00" },
-            { day: "Wednesday", open: "10:00", close: "16:00" },
+            { day: "Wednesday", open: "10:00", close: "15:00" },
             { day: "Thursday", open: "10:00", close: "16:00" },
             { day: "Friday", open: "10:00", close: "16:00" },
             { day: "Saturday", open: "9:00", close: "20:00" },
